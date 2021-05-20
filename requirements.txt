@@ -1,0 +1,9 @@
+Django
+requests
+Pillow
+djangorestframework
+django-utils-six
+django-cors-headers
+django-wysiwyg-redactor
+mysqlclient
+marshmallow
